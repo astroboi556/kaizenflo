@@ -11,8 +11,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#2e026d] to-[#15162c]">
-        <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
-          Kaizenflo
+        <h1 className="text-5xl font-extrabold tracking-tight text-orange-500 sm:text-[5rem]">
+          Kaizenflo v3
         </h1>
       </main>
     </>
